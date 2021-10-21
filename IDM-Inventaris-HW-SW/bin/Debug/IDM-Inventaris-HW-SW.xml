@@ -1,0 +1,142 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IDM-Inventaris-HW-SW
+</name>
+</assembly>
+<members>
+<member name="M:IDM_Inventaris_HW_SW.mdlDataTable.extPopulateToCombo(System.Data.DataTable,System.Windows.Forms.ToolStripComboBox,System.Boolean)">
+	<summary>
+ Populate DataTable Column Name to ToolStripCombo
+ </summary>
+</member><member name="M:IDM_Inventaris_HW_SW.clsStrings.Replace(System.String,System.String[])">
+	<summary>
+ Parameter must be even.
+ Replace 1st string with 2nd string, 3rd string with 4th string, and so on.
+ Occurence will repeat from the start.
+ </summary>
+</member><member name="P:IDM_Inventaris_HW_SW.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:IDM_Inventaris_HW_SW.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:IDM_Inventaris_HW_SW.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:IDM_Inventaris_HW_SW.dsInventaris.tbl_inventarisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:IDM_Inventaris_HW_SW.dsInventaris.rpt_inventarisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:IDM_Inventaris_HW_SW.dsInventaris.rpt_checklistDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:IDM_Inventaris_HW_SW.dsInventaris.rptInvDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:IDM_Inventaris_HW_SW.dsInventaris.tbl_inventarisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:IDM_Inventaris_HW_SW.dsInventaris.rpt_inventarisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:IDM_Inventaris_HW_SW.dsInventaris.rpt_checklistRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:IDM_Inventaris_HW_SW.dsInventaris.rptInvRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:IDM_Inventaris_HW_SW.dsInventaris.tbl_inventarisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:IDM_Inventaris_HW_SW.dsInventaris.rpt_inventarisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:IDM_Inventaris_HW_SW.dsInventaris.rpt_checklistRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:IDM_Inventaris_HW_SW.dsInventaris.rptInvRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:IDM_Inventaris_HW_SW.dsInventaris">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:IDM_Inventaris_HW_SW.dsInventarisTableAdapters.tbl_inventarisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:IDM_Inventaris_HW_SW.dsInventarisTableAdapters.rpt_inventarisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:IDM_Inventaris_HW_SW.dsInventarisTableAdapters.rpt_checklistTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:IDM_Inventaris_HW_SW.dsInventarisTableAdapters.TableAdapterManager.UpdateUpdatedRows(IDM_Inventaris_HW_SW.dsInventaris,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:IDM_Inventaris_HW_SW.dsInventarisTableAdapters.TableAdapterManager.UpdateInsertedRows(IDM_Inventaris_HW_SW.dsInventaris,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:IDM_Inventaris_HW_SW.dsInventarisTableAdapters.TableAdapterManager.UpdateDeletedRows(IDM_Inventaris_HW_SW.dsInventaris,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:IDM_Inventaris_HW_SW.dsInventarisTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:IDM_Inventaris_HW_SW.dsInventarisTableAdapters.TableAdapterManager.UpdateAll(IDM_Inventaris_HW_SW.dsInventaris)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:IDM_Inventaris_HW_SW.dsInventarisTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:IDM_Inventaris_HW_SW.dsInventarisTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:IDM_Inventaris_HW_SW.dsInventarisTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="M:IDM_Inventaris_HW_SW.mdlDGV.extSetCustomFormat1(System.Windows.Forms.DataGridView)">
+	<summary>
+ Lock all feature, Full Row Select
+ </summary>
+</member><member name="M:IDM_Inventaris_HW_SW.mdlDGV.extSetCustomFormat2(System.Windows.Forms.DataGridView)">
+	<summary>
+ Lock all feature, Cell Select
+ </summary>
+</member><member name="M:IDM_Inventaris_HW_SW.mdlToolStripCombo.PopulateFromDT(System.Windows.Forms.ToolStripComboBox,System.Data.DataTable,System.Boolean)">
+	<summary>
+ Get DataTable Column Name to ToolStripCombo
+ </summary>
+</member>
+</members>
+</doc>

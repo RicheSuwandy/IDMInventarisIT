@@ -1,0 +1,39 @@
+c:\users\riche.faindomas\documents\visual studio 2012\Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\bin\Debug\IDM-Inventaris-HW-SW.exe
+C:\Users\Riche.FAINDOMAS\Documents\Visual Studio 2012\Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\bin\Debug\IDM-Inventaris-HW-SW.exe.config
+C:\Users\Riche.FAINDOMAS\Documents\Visual Studio 2012\Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM_Inventaris_HW_SW.FrmInventaris.resources
+C:\Users\Riche.FAINDOMAS\Documents\Visual Studio 2012\Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM_Inventaris_HW_SW.FrmPrintPreview.resources
+C:\Users\Riche.FAINDOMAS\Documents\Visual Studio 2012\Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM_Inventaris_HW_SW.Resources.resources
+C:\Users\Riche.FAINDOMAS\Documents\Visual Studio 2012\Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.vbproj.GenerateResource.Cache
+C:\Users\Riche.FAINDOMAS\Documents\Visual Studio 2012\Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.exe
+C:\Users\Riche.FAINDOMAS\Documents\Visual Studio 2012\Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.xml
+C:\Users\Riche.FAINDOMAS\Documents\Visual Studio 2012\Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.pdb
+C:\Users\Riche.FAINDOMAS\Documents\Visual Studio 2012\Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\bin\Debug\IDM-Inventaris-HW-SW.pdb
+C:\Users\Riche.FAINDOMAS\Documents\Visual Studio 2012\Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\bin\Debug\IDM-Inventaris-HW-SW.xml
+C:\Users\Riche.FAINDOMAS\Documents\Visual Studio 2012\Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.vbprojResolveAssemblyReference.cache
+H:\DESKTOP FILE\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\bin\Debug\IDM-Inventaris-HW-SW.exe.config
+H:\DESKTOP FILE\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.exe
+H:\DESKTOP FILE\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.xml
+H:\DESKTOP FILE\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.pdb
+H:\DESKTOP FILE\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\bin\Debug\IDM-Inventaris-HW-SW.exe
+H:\DESKTOP FILE\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\bin\Debug\IDM-Inventaris-HW-SW.pdb
+H:\DESKTOP FILE\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\bin\Debug\IDM-Inventaris-HW-SW.xml
+H:\DESKTOP FILE\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.vbprojResolveAssemblyReference.cache
+H:\DESKTOP FILE\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM_Inventaris_HW_SW.FrmInventaris.resources
+H:\DESKTOP FILE\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM_Inventaris_HW_SW.FrmPrintPreview.resources
+H:\DESKTOP FILE\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM_Inventaris_HW_SW.Resources.resources
+H:\DESKTOP FILE\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.vbproj.GenerateResource.Cache
+I:\FIles\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\bin\Debug\IDM-Inventaris-HW-SW.exe.config
+I:\FIles\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\bin\Debug\IDM-Inventaris-HW-SW.exe
+I:\FIles\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\bin\Debug\IDM-Inventaris-HW-SW.pdb
+I:\FIles\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\bin\Debug\IDM-Inventaris-HW-SW.xml
+I:\FIles\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM_Inventaris_HW_SW.FrmInventaris.resources
+I:\FIles\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM_Inventaris_HW_SW.FrmPrintPreview.resources
+I:\FIles\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM_Inventaris_HW_SW.Resources.resources
+I:\FIles\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.vbproj.GenerateResource.Cache
+I:\FIles\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.exe
+I:\FIles\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.xml
+I:\FIles\dot net development\Visual Studio 2012 Projects\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.pdb
+D:\Project Indomas\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\bin\Debug\IDM-Inventaris-HW-SW.exe.config
+D:\Project Indomas\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.exe
+D:\Project Indomas\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.xml
+D:\Project Indomas\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.pdb
