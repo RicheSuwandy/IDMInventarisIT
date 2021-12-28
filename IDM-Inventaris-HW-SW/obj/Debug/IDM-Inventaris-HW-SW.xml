@@ -10,12 +10,6 @@ IDM-Inventaris-HW-SW
 	<summary>
  Populate DataTable Column Name to ToolStripCombo
  </summary>
-</member><member name="M:IDM_Inventaris_HW_SW.clsStrings.Replace(System.String,System.String[])">
-	<summary>
- Parameter must be even.
- Replace 1st string with 2nd string, 3rd string with 4th string, and so on.
- Occurence will repeat from the start.
- </summary>
 </member><member name="P:IDM_Inventaris_HW_SW.My.Resources.Resources.ResourceManager">
 	<summary>
   Returns the cached ResourceManager instance used by this class.
@@ -29,6 +23,24 @@ IDM-Inventaris-HW-SW
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
+</member><member name="M:IDM_Inventaris_HW_SW.mdlToolStripCombo.PopulateFromDT(System.Windows.Forms.ToolStripComboBox,System.Data.DataTable,System.Boolean)">
+	<summary>
+ Get DataTable Column Name to ToolStripCombo
+ </summary>
+</member><member name="M:IDM_Inventaris_HW_SW.clsStrings.Replace(System.String,System.String[])">
+	<summary>
+ Parameter must be even.
+ Replace 1st string with 2nd string, 3rd string with 4th string, and so on.
+ Occurence will repeat from the start.
+ </summary>
+</member><member name="M:IDM_Inventaris_HW_SW.mdlDGV.extSetCustomFormat1(System.Windows.Forms.DataGridView)">
+	<summary>
+ Lock all feature, Full Row Select
+ </summary>
+</member><member name="M:IDM_Inventaris_HW_SW.mdlDGV.extSetCustomFormat2(System.Windows.Forms.DataGridView)">
+	<summary>
+ Lock all feature, Cell Select
+ </summary>
 </member><member name="T:IDM_Inventaris_HW_SW.dsInventaris.tbl_inventarisDataTable">
 	<summary>
 Represents the strongly named DataTable class.
@@ -125,18 +137,6 @@ Used to sort self-referenced table's rows
 	<summary>
 TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
 </summary>
-</member><member name="M:IDM_Inventaris_HW_SW.mdlDGV.extSetCustomFormat1(System.Windows.Forms.DataGridView)">
-	<summary>
- Lock all feature, Full Row Select
- </summary>
-</member><member name="M:IDM_Inventaris_HW_SW.mdlDGV.extSetCustomFormat2(System.Windows.Forms.DataGridView)">
-	<summary>
- Lock all feature, Cell Select
- </summary>
-</member><member name="M:IDM_Inventaris_HW_SW.mdlToolStripCombo.PopulateFromDT(System.Windows.Forms.ToolStripComboBox,System.Data.DataTable,System.Boolean)">
-	<summary>
- Get DataTable Column Name to ToolStripCombo
- </summary>
 </member>
 </members>
 </doc>

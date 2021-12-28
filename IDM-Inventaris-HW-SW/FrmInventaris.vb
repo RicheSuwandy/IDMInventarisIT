@@ -95,7 +95,17 @@ Public Class FrmInventaris
         End If
     End Sub
 
-    
+
+    Private Sub GetIPAddress()
+
+        Dim strHostName As String
+        Dim strIPAddress As String
+        txtCurUser.Text = System.Net.Dns.GetHostName() & "/" & Environment.UserName
+        strHostName = System.Net.Dns.GetHostName()
+        txtIP.Text = System.Net.Dns.GetHostByName(strHostName).AddressList(0).ToString()
+        'MessageBox.Show("Host Name: " & strHostName & "; IP Address: " & strIPAddress)
+    End Sub
+
 
 
 #End Region
@@ -103,6 +113,7 @@ Public Class FrmInventaris
     Private Sub FrmInventaris_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
         Dim decHDTotal, decHD As Decimal
+        GetIPAddress()
         rk = Registry.LocalMachine.OpenSubKey(SoftwareKey)
         TabControl1.SelectedIndex = 1
         decHDTotal = 0
@@ -117,7 +128,7 @@ Public Class FrmInventaris
         btnPrintChkList.Enabled = False
         txtOS.Text = My.Computer.Info.OSFullName
         txtNo.Text = "IDM-IT-" & Environment.MachineName & "-" & Format(dtpTgl.Value, "yyyyMMdd")
-        txtCurUser.Text = Environment.UserName
+        'txtCurUser.Text = Environment.UserName
         txtDepartemen.Text = Mid(txtNo.Text, 8, 2)
         Select Case txtDepartemen.Text
             Case "AC"
@@ -143,7 +154,7 @@ Public Class FrmInventaris
             Case "WH"
                 txtDepartemen.Text = "WAREHOUSE"
         End Select
-        txtIP.Text = "192.168.0." & Mid(txtNo.Text, 11, 3)
+        'txtIP.Text = "192.168.0." & Mid(txtNo.Text, 11, 3)
         nudRAM.Value = Math.Round(My.Computer.Info.TotalPhysicalMemory / 1048576, 2)
         txtProsesor.Text = My.Computer.Registry.GetValue("HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\0", "ProcessorNameString", "") & " " & My.Computer.Registry.GetValue("HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Environment", "NUMBER_OF_PROCESSORS", "")
 
@@ -174,6 +185,7 @@ Public Class FrmInventaris
             ListBox1.Items.Add(substrfoundfile)
         Next
         Call LoadInv()
+
     End Sub
     Private Sub btnTambah_Click(sender As Object, e As EventArgs) Handles btnTambah.Click
         Call ResetField()

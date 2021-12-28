@@ -37,3 +37,15 @@ D:\Project Indomas\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\bin\Debug\IDM-Inven
 D:\Project Indomas\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.exe
 D:\Project Indomas\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.xml
 D:\Project Indomas\IDM-Inventaris-HW-SW\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.pdb
+D:\Project Indomas\IDMInventarisIT\IDM-Inventaris-HW-SW\bin\Debug\IDM-Inventaris-HW-SW.exe.config
+D:\Project Indomas\IDMInventarisIT\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.exe
+D:\Project Indomas\IDMInventarisIT\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.xml
+D:\Project Indomas\IDMInventarisIT\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.pdb
+D:\Project Indomas\IDMInventarisIT\IDM-Inventaris-HW-SW\bin\Debug\IDM-Inventaris-HW-SW.exe
+D:\Project Indomas\IDMInventarisIT\IDM-Inventaris-HW-SW\bin\Debug\IDM-Inventaris-HW-SW.pdb
+D:\Project Indomas\IDMInventarisIT\IDM-Inventaris-HW-SW\bin\Debug\IDM-Inventaris-HW-SW.xml
+D:\Project Indomas\IDMInventarisIT\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.vbprojResolveAssemblyReference.cache
+D:\Project Indomas\IDMInventarisIT\IDM-Inventaris-HW-SW\obj\Debug\IDM_Inventaris_HW_SW.FrmInventaris.resources
+D:\Project Indomas\IDMInventarisIT\IDM-Inventaris-HW-SW\obj\Debug\IDM_Inventaris_HW_SW.FrmPrintPreview.resources
+D:\Project Indomas\IDMInventarisIT\IDM-Inventaris-HW-SW\obj\Debug\IDM_Inventaris_HW_SW.Resources.resources
+D:\Project Indomas\IDMInventarisIT\IDM-Inventaris-HW-SW\obj\Debug\IDM-Inventaris-HW-SW.vbproj.GenerateResource.Cache
